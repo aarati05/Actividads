@@ -1,2 +1,2 @@
-# Programacion
-Ejercicios de la asignatura Programacion de 2 DAW
+# Actividads
+Ejercicios de la asignatura Programacion de 2 DAW y de Dissenyo web
